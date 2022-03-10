@@ -6,7 +6,7 @@ package com.mycompany.app;
 public class App
 {
 
-    private final String message = "Hello CloudWatch!";
+    private final String message = "Hello Cloud";
 
     public App() {}
 
